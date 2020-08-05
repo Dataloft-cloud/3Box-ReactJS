@@ -1,4 +1,4 @@
-# Box3-ReactJS
+# 3Box-ReactJS
 
 ```js
 const Box = require("3box");
